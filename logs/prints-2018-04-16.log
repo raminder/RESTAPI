@@ -1,0 +1,9 @@
+14:50:22.413 [main] INFO  MavenFramework.basicsdelete2 - {
+   "id" : "e0a9f9164a01bdc8dfcead90f654cccd96f1367c",
+   "place_id" : "qgYvCi0wMDAwMDA5YWNhMWJkYTRhOjM5MTk2MTc0YjQ1OjVjYzkzMGU3MzU4Mzc3MmQ",
+   "reference" : "CkQxAAAAtutu-jEV0R8o668CjRUQzlfH_5c8cnBGvEJBXUYexhr3bzrVS5v3GnjhTw-boLlH1PzvA6OsTmDowDmYwaesShIQwaUE2LZsYsZf8E54exFy0hoUZI0cvKLwiiDu46E-Rtk6VzA8DEQ",
+   "scope" : "APP",
+   "status" : "OK"
+}
+
+14:50:22.503 [main] INFO  MavenFramework.basicsdelete2 - The place id added isqgYvCi0wMDAwMDA5YWNhMWJkYTRhOjM5MTk2MTc0YjQ1OjVjYzkzMGU3MzU4Mzc3MmQ

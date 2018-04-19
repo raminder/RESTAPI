@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 13.156 s <<< FAILURE! - in TestSuite
+createIssue(MavenFramework.Jirabasics)  Time elapsed: 0.076 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <201> but was <400>.
+
+	at MavenFramework.Jirabasics.createIssue(Jirabasics.java:33)
+
+createPlace(MavenFramework.basics2)  Time elapsed: 0.873 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path results[0].name doesn't match.
+Expected: Global Industries
+  Actual: Amritsar
+
+	at MavenFramework.basics2.createPlace(basics2.java:43)
+
+getPlace(MavenFramework.basics)  Time elapsed: 0.789 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path results[0].name doesn't match.
+Expected: Global Industries
+  Actual: Amritsar
+
+	at MavenFramework.basics.getPlace(basics.java:26)
+

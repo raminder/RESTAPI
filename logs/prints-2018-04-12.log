@@ -1,0 +1,11 @@
+16:45:16.184 [main] INFO  MavenFramework.basics2post - Host Informationhttps://maps.googleapis.com
+16:45:18.026 [main] INFO  MavenFramework.basicsdelete2 - Host Information ishttps://maps.googleapis.com
+16:45:18.319 [main] INFO  MavenFramework.basicsdelete2 - Raw json response isio.restassured.internal.RestAssuredResponseImpl@e344ad3
+16:45:18.319 [main] INFO  MavenFramework.basicsdelete2 - {
+   "id" : "34901c8e6588a7d24bc9b5e66078a7a42fb411b6",
+   "place_id" : "qgYvCi0wMDAwMDA5YWNhMWJkYTRhOjM5MTk2MTc0YjQ1OjMwNmVkYjg3MjlhMjlhN2E",
+   "reference" : "CkQxAAAADUx1OOH3NtsmU2rFPH_nwUdAp5KcSpt3OM-i6tbdTzyW_J52QSPLXBRWQYJpDh2-Zd4S7LlHxMbXykpX8TPdSBIQXO1ulZUB_7IgEKejO7_Z4BoUW0yE0oqLxiZI5yNLgUce504TRXw",
+   "scope" : "APP",
+   "status" : "OK"
+}
+

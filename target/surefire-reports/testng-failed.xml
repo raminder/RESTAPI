@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="RESTAPI(failed)">
+    <classes>
+      <class name="MavenFramework.Jirabasics4">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.Jirabasics4 -->
+      <class name="MavenFramework.basics2post">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.basics2post -->
+      <class name="MavenFramework.Jirabasics">
+        <methods>
+          <include name="createIssue"/>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.Jirabasics -->
+      <class name="MavenFramework.basics2">
+        <methods>
+          <include name="getData"/>
+          <include name="createPlace"/>
+        </methods>
+      </class> <!-- MavenFramework.basics2 -->
+      <class name="MavenFramework.Jirabasics5">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.Jirabasics5 -->
+      <class name="MavenFramework.basics">
+        <methods>
+          <include name="getPlace"/>
+        </methods>
+      </class> <!-- MavenFramework.basics -->
+      <class name="MavenFramework.Jirabasics3">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.Jirabasics3 -->
+      <class name="MavenFramework.basicsdelete2">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.basicsdelete2 -->
+      <class name="MavenFramework.Jirabasics2">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- MavenFramework.Jirabasics2 -->
+    </classes>
+  </test> <!-- RESTAPI(failed) -->
+</suite> <!-- Failed suite [Suite] -->

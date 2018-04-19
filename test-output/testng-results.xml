@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2736" started-at="2018-04-18T16:49:33Z" finished-at="2018-04-18T16:49:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2736" started-at="2018-04-18T16:49:33Z" finished-at="2018-04-18T16:49:36Z">
+      <class name="MavenFramework.Jirabasics3">
+        <test-method status="PASS" signature="getData()[pri:0, instance:MavenFramework.Jirabasics3@2a5ca609]" name="getData" is-config="true" duration-ms="10" started-at="2018-04-18T22:19:33Z" finished-at="2018-04-18T22:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="UpdateCommentGeneric()[pri:0, instance:MavenFramework.Jirabasics3@2a5ca609]" name="UpdateCommentGeneric" duration-ms="2715" started-at="2018-04-18T22:19:33Z" finished-at="2018-04-18T22:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCommentGeneric -->
+      </class> <!-- MavenFramework.Jirabasics3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
