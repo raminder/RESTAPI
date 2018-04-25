@@ -1,0 +1,9 @@
+16:48:46.651 [main] INFO  MavenFramework.basicsdelete2 - Raw json response isio.restassured.internal.RestAssuredResponseImpl@2679311f
+16:48:46.696 [main] INFO  MavenFramework.basicsdelete2 - {
+   "id" : "85bb54ebb4b006abdd63178f965ae005a4265c27",
+   "place_id" : "qgYvCi0wMDAwMDA5YWNhMWJkYTRhOjM5MTk2MTc0YjQ1OjIyNmU2MjY2ZDQzYmFjNDI",
+   "reference" : "CkQxAAAADGEvD7NCeauDxuG-TKRKqP6eDZ81wBHXM66geVVx2gIHiEE0-jaHGUGEDIYrC36Ul-2Zk4vqkpeSJA5rnHpk1BIQYjnYnUfRBILMsRiXtvZGvxoU6ZQy5qkAfvrImaRY5bVqr9ChMZs",
+   "scope" : "APP",
+   "status" : "OK"
+}
+
